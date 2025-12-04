@@ -75,4 +75,7 @@ El proyecto está estructurado en capas:
 
 ## Video
 
-[Watch the video](Video/api.mp4)
+<video width="320" height="240" controls>
+  <source src="https://leandrosepulveda.com/recursos/api.mp4" type="video/mp4">
+  No lo soporta.
+</video>
