@@ -75,7 +75,4 @@ El proyecto está estructurado en capas:
 
 ## Video
 
-<video width="320" height="240" controls>
-  <source src="Video/api.mp4" type="video/mp4">
-  No lo soporta.
-</video>
+[Watch the video](Video/api.mp4)
